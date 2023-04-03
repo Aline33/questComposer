@@ -1,0 +1,17 @@
+{
+    "name": "legen/app",
+    "autoload": {
+        "psr-4": {
+            "Legen\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aline LEGENDRE",
+            "email": "legendrealine@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
